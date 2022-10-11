@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+.su{
+  text-decoration: none;
+  text-decoration-style: none;
+}
+
+.a{
+  display:inline-block;
+  cursor: pointer;
+}
+
+.clientmessage input,.clientmessage textarea{
+  background:#8080802e;
+  width: 80%;
+  margin: 10px auto;
+  font-weight: bold;
+  color:black;
+}
+
+.herobutton{
+  text-decoration: none;
+  border: 2px solid #131313;
+  margin: 0%;
+  padding: 1%;
+  background-color: #fffffffa;
+  color: black;
+  font-weight: bold;
+  transition:0.3s;
+}
+
+.herobutton:hover{
+  color:white;
+  font-weight: bold    ;
+  border:1px solid black;
+  background-color:rgb(236, 14, 14);
+  margin:0%;
+}
+/* .input{
+  width: 63%;
+} */
+
+.su{
+  text-align: center;
+}
+
+.widthst{
+  width:63%;
+}
